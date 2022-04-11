@@ -75,9 +75,25 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 
 //SETTING
 ppbot = setting.ppbot
-gc = `https://chat.whatsapp.com/Cg9Ncb7iC11LLO2qriAknU`
-don = `-`
-hargaSewa = `-`
+gc = `https://chat.whatsapp.com/JKdAiYPbJd7GooMqYlZVg3`
+don = `*𖧵 ࣪˒ ›› 𝗉𝖺𝗒𝗆𝖾𝗇𝗍 𝖭𝖺𝗒𝗒Cimoy ˖་ 🌷 ࣪ ‌˒*
+
+*˖ ་ 🦐𖦆 𝐆𝐨𝐩𝐚𝐲 : (𝖲𝖢𝖠𝖭 𝖯𝖯 ADMIN) 𝖠/𝖭 იɑіიɑ²*
+*˖ ་ 🦐𖦆𝐃𝐚𝐧𝐚 : 082180322607 𝖠/𝖭 ⍵𝗎Iɑიⅾɑ𝗋і*
+*˖ ་ 🦐𖦆𝐎𝐯𝐨 : 082180322607 𝖠/𝖭 s𝗎kɑtі*
+*˖ ་ 🦐𝐒𝐡𝐨𝐩𝐞𝐩𝐚𝐲 : cp ɑⅾოіი*
+
+*᭝ּ໋݊𝗡𝗢𝗧𝗘 ;*
+☞︎︎︎ *𝑠𝑒𝑟𝑡𝑎𝑘𝑎𝑛 𝑏𝑢𝑘𝑡𝑖 𝑡𝑓 𝑡𝑎𝑛𝑝𝑎 𝑏𝑢𝑘𝑡𝑖 𝑡𝑓 𝑡𝑟𝑎𝑛𝑘𝑠𝑎𝑘𝑠𝑖 𝑡𝑖𝑑𝑎𝑘 𝑑𝑎𝑝𝑎𝑡 𝑑𝑖𝑙𝑎𝑘𝑢𝑘𝑎𝑛*
+☞︎︎︎ *𝑠𝑎𝑙𝑎ℎ 𝑡𝑓 ℎ𝑎𝑛𝑔𝑢𝑠 , 𝑛𝑜 𝑘𝑜𝑎𝑟 - 𝑘𝑜𝑎𝑟*
+☞︎︎︎ *𝑙𝑒𝑏𝑖ℎ 𝑡𝑓 𝑛𝑜 𝑟𝑒𝑓𝑓*
+
+ʕ•ᴥ•ʔ`
+hargaSewa = `Prιᥴᥱᥣιst sᥱᥕᥲ bot ᥒᥲყყCιmoყ
+
+1k ρᥱrmιᥒggᥙ
+2k ρᥱrbᥙᥣᥲᥒ
+4k ρᥱrmᥲᥒᥱᥒ`
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 
